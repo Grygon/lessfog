@@ -8,6 +8,6 @@
   "author": "trdischat",
   "esmodules": ["lessfog.js"],
   "url": "https://github.com/grygon/lessfog",
-  "manifest": "https://github.com/grygon/lessfog/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/Grygon/lessfog/installable/module.json",
   "download": "https://github.com/grygon/lessfog/releases/download/temp/module.zip"
 }
