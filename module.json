@@ -9,5 +9,5 @@
   "esmodules": ["lessfog.js"],
   "url": "https://github.com/grygon/lessfog",
   "manifest": "https://raw.githubusercontent.com/Grygon/lessfog/installable/module.json",
-  "download": "https://github.com/grygon/lessfog/releases/download/temp/module.zip"
+  "download": "https://github.com/Grygon/lessfog/archive/temp.zip"
 }
